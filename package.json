@@ -1,0 +1,9 @@
+{
+  "name": "rest-ts",
+  "version": "1.0.0",
+  "description": "A boilerplate REST API Framework with Express, Typescript and Mongoose",
+  "main": "index.js",
+  "repository": "git@github.com:mithundas79/rest-ts.git",
+  "author": "Mithun Das <mithun.das@jumacro.com>",
+  "license": "MIT"
+}
